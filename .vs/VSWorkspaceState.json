@@ -4,8 +4,9 @@
     "\\src",
     "\\src\\app",
     "\\src\\app\\components",
+    "\\src\\app\\components\\item-card",
     "\\src\\app\\components\\tasks"
   ],
-  "SelectedNode": "\\src\\app\\components\\tasks\\tasks.component.ts",
+  "SelectedNode": "\\src\\app\\components\\item-card\\item-card.component.css",
   "PreviewInSolutionExplorer": false
 }
