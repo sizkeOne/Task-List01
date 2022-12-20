@@ -4,6 +4,7 @@
     "\\src",
     "\\src\\app",
     "\\src\\app\\components",
+    "\\src\\app\\components\\header",
     "\\src\\app\\components\\item-card",
     "\\src\\app\\components\\tasks"
   ],

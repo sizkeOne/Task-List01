@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, Input } from '@angular/core';
 import { Task } from '../../task'
 import { TASKS } from '../../mock-task'
 
@@ -11,5 +11,5 @@ import { TASKS } from '../../mock-task'
   styleUrls: ['./tasks.component.css']
 })
 export class TasksComponent {
-  tasks: Task[] = TASKS;
+ @Input() tasks: Task[] = TASKS;
 }
